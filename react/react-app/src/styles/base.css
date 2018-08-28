@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.rootApp{
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+a {
+    text-decoration: none;
+    -webkit-touch-callout: none;
+}

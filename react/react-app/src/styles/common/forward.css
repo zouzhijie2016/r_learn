@@ -1,0 +1,27 @@
+.forward{
+    padding: 0 12px;
+}
+.forward-header {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    text-align: left;
+}
+.forward-content{
+    width: 100%;
+    height: 220px;
+    display: block;
+}
+.forward-content img{
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+.forward-footer{
+    padding:10px 0 20px 0;
+    text-indent: 35px;
+    border-bottom: 1px solid #eeeeee;
+}
+.forward:last-child .forward-footer{
+    border-bottom: 0;
+}
